@@ -51209,7 +51209,7 @@ $R:2}
 F.Bm.prototype={
 N:function(a){return new S.rR(new F.Bn(null),"Flutter Math Demo",X.a7e(null,C.rc,X.aeD()),null)}}
 F.Bn.prototype={
-N:function(a){var s=null,r=L.dz("Flutter Math Demo",s,s,s,s,s,s,s),q=t.t,p=new E.uy(H.c([L.dz("Demo",s,s,s,s,s,s,s),L.dz("Samples",s,s,s,s,s,s,s),L.dz("Features",s,s,s,s,s,s,s)],q),s),o=p.gwj()
+N:function(a){var s=null,r=L.dz("Flutter Math Demo",s,s,s,s,s,s,s),q=t.t,p=new E.uy(H.c([L.dz("Interactive Demo",s,s,s,s,s,s,s),L.dz("Equation Samples",s,s,s,s,s,s,s),L.dz("Supported Features",s,s,s,s,s,s,s)],q),s),o=p.gwj()
 o=o.b
 o=56+(o==null?0:o)
 return new U.qz(3,new M.u4(new E.q_(r,p,new P.ab(1/0,o),s),new E.uA(H.c([new N.zp(s),new S.zS(s),new Y.A0(s)],q),s),s),s)}}
